@@ -1,0 +1,15 @@
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Application\bin\Debug\net8.0\HouseLink.Identity.Application.deps.json
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Application\bin\Debug\net8.0\HouseLink.Identity.Application.dll
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Application\bin\Debug\net8.0\HouseLink.Identity.Application.pdb
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Application\bin\Debug\net8.0\HouseLink.Identity.Domain.dll
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Application\bin\Debug\net8.0\HouseLink.Identity.Domain.pdb
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Application\obj\Debug\net8.0\HouseLink.Identity.Application.csproj.AssemblyReference.cache
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Application\obj\Debug\net8.0\HouseLink.Identity.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Application\obj\Debug\net8.0\HouseLink.Identity.Application.AssemblyInfoInputs.cache
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Application\obj\Debug\net8.0\HouseLink.Identity.Application.AssemblyInfo.cs
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Application\obj\Debug\net8.0\HouseLink.Identity.Application.csproj.CoreCompileInputs.cache
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Application\obj\Debug\net8.0\HouseLin.91B80CE0.Up2Date
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Application\obj\Debug\net8.0\HouseLink.Identity.Application.dll
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Application\obj\Debug\net8.0\refint\HouseLink.Identity.Application.dll
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Application\obj\Debug\net8.0\HouseLink.Identity.Application.pdb
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Application\obj\Debug\net8.0\ref\HouseLink.Identity.Application.dll

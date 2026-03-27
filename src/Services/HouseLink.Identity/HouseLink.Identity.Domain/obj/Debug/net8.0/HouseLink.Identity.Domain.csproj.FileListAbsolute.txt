@@ -1,0 +1,11 @@
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Domain\bin\Debug\net8.0\HouseLink.Identity.Domain.deps.json
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Domain\bin\Debug\net8.0\HouseLink.Identity.Domain.dll
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Domain\bin\Debug\net8.0\HouseLink.Identity.Domain.pdb
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Domain\obj\Debug\net8.0\HouseLink.Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Domain\obj\Debug\net8.0\HouseLink.Identity.Domain.AssemblyInfoInputs.cache
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Domain\obj\Debug\net8.0\HouseLink.Identity.Domain.AssemblyInfo.cs
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Domain\obj\Debug\net8.0\HouseLink.Identity.Domain.csproj.CoreCompileInputs.cache
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Domain\obj\Debug\net8.0\HouseLink.Identity.Domain.dll
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Domain\obj\Debug\net8.0\refint\HouseLink.Identity.Domain.dll
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Domain\obj\Debug\net8.0\HouseLink.Identity.Domain.pdb
+E:\Repositories\MyProject\asp-net-core\HouseLink\src\Services\HouseLink.Identity\HouseLink.Identity.Domain\obj\Debug\net8.0\ref\HouseLink.Identity.Domain.dll

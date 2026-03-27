@@ -1,0 +1,6 @@
+@HouseLink.Gateway_HostAddress = http://localhost:5026
+
+GET {{HouseLink.Gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
