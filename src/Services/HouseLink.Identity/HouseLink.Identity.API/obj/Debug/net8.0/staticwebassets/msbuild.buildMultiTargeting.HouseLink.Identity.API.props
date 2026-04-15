@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\HouseLink.Identity.API.props" />
-</Project>
