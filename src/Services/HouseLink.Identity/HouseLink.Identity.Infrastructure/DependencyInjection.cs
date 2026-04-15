@@ -1,4 +1,7 @@
-﻿using HouseLink.Identity.Infrastructure.Persistence;
+﻿using HouseLink.Identity.Domain.Interfaces;
+using HouseLink.Identity.Infrastructure.Persistence;
+using HouseLink.Identity.Infrastructure.Repositories;
+using HouseLink.Identity.Infrastructure.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -42,6 +45,11 @@ namespace HouseLink.Identity.Infrastructure
             //services.AddScoped<IIdentityService, IdentityService>();
             //services.AddScoped<IJwtTokenService, JwtTokenService>();
             //services.AddScoped<IRefreshTokenRepository, RefreshTokenRepository>();
+            services.AddScoped<IActivityLogRepository, ActivityLogRepository>();
+            services.AddScoped<IKafkaProducerService, KafkaProducerService>();
+
+            // Consumer Service - Đăng ký như hosted service
+            services.AddHostedService<KafkaConsumerService>();
 
             return services;
         }

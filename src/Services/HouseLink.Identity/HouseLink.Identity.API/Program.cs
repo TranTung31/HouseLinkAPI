@@ -8,6 +8,12 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Cấu hình Host để tránh crash do background service
+builder.Host.ConfigureHostOptions(options =>
+{
+    options.BackgroundServiceExceptionBehavior = Microsoft.Extensions.Hosting.BackgroundServiceExceptionBehavior.Ignore;
+});
+
 // ── Layers ────────────────────────────────────────────────────
 builder.Services
     .AddApplication()
